@@ -1,0 +1,62 @@
+.chooseUs {
+    background-image: url('https://i.ibb.co/tZYRGwV/service-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 180px;
+    margin-bottom: 10%;
+}
+
+.play-btn {
+    width: 70px;
+    height: 70px;
+    -webkit-border-radius: 150px;
+    display: block;
+    margin: auto;
+    background: var(--pix-main-color);
+    cursor: pointer;
+    transition: .35s;
+
+}
+
+.play-btn:hover {
+    background-color: #fff;
+    color: rgb(81 220 233);
+}
+
+.chooseUsText {
+    font-size: 60px;
+    color: #fff;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.look-text {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+
+
+.about-icon {
+    font-size: 50px;
+    margin-right: 30px;
+}
+
+.about-text h4 {
+    line-height: 40px;
+    font-weight: 700;
+    font-size: 28px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about-text p {
+    padding-top: 5px;
+    margin-top: 0;
+    line-height: 34px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #797979;
+}

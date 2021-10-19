@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "category": "Care and help at home",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/5ngG5V4/service-1.jpg"
+    },
+    {
+        "id": "2",
+        "category": "Specialized care",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/m46Nmbk/Young-caregiver-helping-senior-woman-walking-Nurse-assisting-her-old-woman-patient-at-nursing-home-S.jpg"
+    },
+    {
+        "id": "3",
+        "category": "Doctor’s visit to the house",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/h8bPwbC/service-2.jpg"
+    },
+    {
+        "id": "4",
+        "category": "Medical care and care",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/n1QPmjf/service-4.jpg"
+    },
+    {
+        "id": "5",
+        "category": "Balanced care",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/tZYRGwV/service-3.jpg"
+    },
+    {
+        "id": "6",
+        "category": "High caliber caregivers",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/Dwnd93L/A-nurse-in-her-early-30s-examines-a-caucasian-senior-woman-in-a-doctors-office-The-nurse-wears-dark.jpg"
+    }
+    
+]

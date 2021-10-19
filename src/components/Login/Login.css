@@ -1,0 +1,74 @@
+/* form style
+ */
+.form-container {
+    background-image: url('https://i.ibb.co/JCfwf9G/pexels-artem-podrez-4492064-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 50px;
+
+}
+
+.full-form {}
+
+.input-level input {
+    width: 30%;
+    margin: auto;
+    padding: 15px;
+    /* border: 1px solid rgb(255, 255, 255); */
+    background-color: rgba(221, 221, 221, 0.753);
+}
+
+.login-btn {
+    margin-top: 20px;
+    width: 30%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: #fff;
+    background-color: #0dcaf0;
+    border: 1px solid #0dcaf0;
+    transition: .3s;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+.sign-up {
+    color: #0dcaf0;
+}
+
+.login-btn:hover {
+    background-color: #fff;
+    color: #0dcaf0;
+}
+
+.error-style {
+    width: 30%;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.google-btn {
+    margin-top: 20px;
+    width: 30%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: #0dcaf0;
+    background-color: #fff;
+    border: 1px solid #fff;
+    transition: .3s;
+    border-radius: 3px;
+}
+
+.google-btn:hover {
+    background-color: #0dcaf0;
+    color: #fff;
+}
+
+.google-icon {
+    width: 18px;
+}

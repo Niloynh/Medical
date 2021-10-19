@@ -1,0 +1,56 @@
+.footer-container {
+    background-color: #0c0c0cef;
+
+}
+
+.input-footer h5 {
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 7%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.input-footer input {
+    padding: 14px 18px;
+    font-size: 18px;
+}
+
+.input-footer button {
+    padding: 12px 15px;
+    font-size: 20px;
+    background-color: #0bb1fd;
+    border: 1px solid #0bb1fd;
+    font-weight: 400;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.input-footer p {
+    color: #7a7a7a;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-text h4 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.footer-text h5 {
+    color: #7a7a7a;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.footer-img {
+    width: 22%;
+}
+
+.text-color {
+    color: #fff;
+}
+
+.text-color span {
+    color: #41e7f7;
+}

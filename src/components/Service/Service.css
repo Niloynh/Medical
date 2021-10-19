@@ -1,0 +1,29 @@
+.card-container {
+    margin-bottom: 15px;
+    transition: .3s;
+
+}
+
+.card-container:hover {
+    box-shadow: 0 2px 5px rgb(0 0 0 / 10%), 0 10px 30px rgb(0 0 0 / 5%);
+}
+
+
+.card-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-title.h5 {
+    font-size: 30px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-descrip {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 28px;
+    color: #797979;
+}
