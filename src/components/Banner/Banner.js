@@ -17,8 +17,8 @@ const Banner = () => {
                 <h3>Medical</h3>
                 <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                 <div className="slider-btn">
-                <Link to="/service"><button className="btn-1 mx-3">Our Services</button></Link>
-                    <button className="btn-2 mx-3">Get a quote</button>
+                <Link to="/services"><button className="btn-1 mx-3">Our Services</button></Link>
+                <Link to="/service"><button className="btn-2 mx-3">Get a quote</button></Link>
                 </div>
             </div>
             </div>
@@ -33,8 +33,8 @@ const Banner = () => {
                 <h3>Professionalism</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 <div className="slider-btn">
-                <Link to="/service"><button className="btn-1 mx-3">Our Services</button></Link>
-                    <button className="btn-2 mx-3">Get a quote</button>
+                <Link to="/services"><button className="btn-1 mx-3">Our Services</button></Link>
+                <Link to="/service"><button className="btn-2 mx-3">Get a quote</button></Link>
                 </div>
             </div>
             </div>
@@ -49,8 +49,8 @@ const Banner = () => {
                 <h3>Technologies</h3>
                 <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 <div className="slider-btn">
-                    <Link to="/service"><button className="btn-1 mx-3">Our Services</button></Link>
-                    <button className="btn-2 mx-3">Get a quote</button>
+                    <Link to="/services"><button className="btn-1 mx-3">Our Services</button></Link>
+                    <Link to="/service"><button className="btn-2 mx-3">Get a quote</button></Link>
                 </div> 
             </div>
             </div>
